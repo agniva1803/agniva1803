@@ -92,5 +92,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/agniva1803/agniva1803/output/snake.svg" alt="Snake animation" />
+<!-- 🐍 Snake animation (from GitHub Actions) -->
+<img src="https://raw.githubusercontent.com/agniva1803/agniva1803/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
