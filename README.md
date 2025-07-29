@@ -6,7 +6,10 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=agniva1803&theme=dracula&no-frame=true&margin-w=10" alt="Trophy" height="140"/>
+<!-- ✅ Working GitHub Streak Graph -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=agniva1803&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api?username=agniva1803&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agniva1803&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -92,7 +95,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/agniva1803/agniva1803/output/snake.svg" alt="Snake animation" />
-<!-- 🐍 Snake animation (from GitHub Actions) -->
-<img src="https://raw.githubusercontent.com/agniva1803/agniva1803/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 ###
