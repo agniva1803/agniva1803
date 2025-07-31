@@ -10,8 +10,12 @@
 <p align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=agniva1803&theme=highcontrast&hide_border=true&stroke=F17300&ring=F17300&fire=F17300&currStreakLabel=F17300&currStreakNum=F17300" alt="GitHub streak for agniva1803" />
 </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=agniva1803&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agniva1803&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&count_private=true&hide_border=true&theme=highcontrast&title_color=F17300&icon_color=F17300&text_color=ffffff" alt="Agniva's GitHub Stats" />
+</p>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&hide_border=true&langs_count=6&theme=highcontrast&title_color=F17300&text_color=ffffff" alt="Top Languages used by Agniva" />
+</p>
   <!-- 🏆 GitHub Profile Trophy (added as per request) -->
   <img src="https://github-profile-trophy.vercel.app/?username=agniva1803&theme=dracula&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
 </div>
