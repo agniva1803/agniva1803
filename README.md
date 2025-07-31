@@ -8,7 +8,7 @@
 <div align="center">
 <!-- ✅ Working GitHub Streak Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=agniva1803&theme=dracula&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=agniva1803&theme=highcontrast&hide_border=true&stroke=F17300&ring=F17300&fire=F17300&currStreakLabel=F17300&currStreakNum=F17300" alt="GitHub streak for agniva1803" />
 </p>
   <img src="https://github-readme-stats.vercel.app/api?username=agniva1803&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agniva1803&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
