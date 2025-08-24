@@ -15,6 +15,10 @@
  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=agniva1803&theme=radical&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
 </p>
+  <!-- ✅ GitHub Activity Graph -->
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&theme=high-contrast&hide_border=true&area=true&area_color=F17300&line=F17300&point=ffffff&color=ffffff" alt="GitHub Activity Graph" />
+</p>
 </div>
 
 ###
