@@ -12,8 +12,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&count_private=true&hide_border=true&theme=highcontrast&title_color=F17300&icon_color=F17300&text_color=ffffff" height="170" alt="Agniva's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&hide_border=true&langs_count=6&theme=highcontrast&title_color=F17300&text_color=ffffff" height="170" alt="Top Languages used by Agniva Mukherjee" />
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agniva1803&theme=radical" alt="GitHub Streak Stats" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=agniva1803&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </p>
   <!-- ✅ GitHub Activity Graph -->
   <p align="center">
