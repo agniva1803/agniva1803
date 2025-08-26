@@ -12,6 +12,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&count_private=true&hide_border=true&theme=highcontrast&title_color=F17300&icon_color=F17300&text_color=ffffff" height="170" alt="Agniva's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&hide_border=true&langs_count=6&theme=highcontrast&title_color=F17300&text_color=ffffff" height="170" alt="Top Languages used by Agniva Mukherjee" />
+  ## 🏆 GitHub Trophies
+
+![Trophies](https://raw.githubusercontent.com/agniva1803/agniva1803/main/assets/trophy.svg)
+
   <p align="center">
   <img src="assets/trophy.svg" alt="GitHub Trophies" />
 </p>
