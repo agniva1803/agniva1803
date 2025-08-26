@@ -13,10 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Create assets directory
         run: mkdir -p assets
+
       - name: Generate Trophies
-        run: curl -s https://github-profile-trophy.vercel.app/?username=agniva1803 > assets/trophy.svg
+        run: |
+          curl -sL "https://github-profile-trophy.vercel.app/?username=agniva1803&theme=radical&no-frame=true&row=1&margin-w=15" \
+          -o assets/trophy.svg
+
       - name: Commit and push trophies
         run: |
           git config --global user.name "github-actions[bot]"
@@ -24,3 +29,4 @@ jobs:
           git add assets/trophy.svg
           git commit -m "Update trophies [skip ci]" || echo "No changes to commit"
           git push
+
