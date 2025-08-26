@@ -1,0 +1,21 @@
+name: Generate GitHub Trophies
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Trophies
+        run: |
+          curl "https://github-profile-trophy.vercel.app/?username=agniva1803&theme=radical&no-frame=true&row=1&margin-w=15" -o assets/trophy.svg
+      - name: Commit Trophies
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/trophy.svg
+          git commit -m "update trophies"
+          git push
