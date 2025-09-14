@@ -17,7 +17,7 @@
 </p>
  <!-- ✅ GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agniva1803&theme=github_dark" alt="GitHub Profile Summary for Agniva Mukherjee" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agniva1803&theme=github" alt="GitHub Profile Summary for Agniva Mukherjee" />
 </p>
 </div>
 
