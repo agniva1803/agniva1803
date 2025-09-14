@@ -17,8 +17,9 @@
 </p>
  <!-- ✅ GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&theme=react-dark&hide_border=true&area=true&area_color=F17300&line=F17300&point=FFFFFF&color=FFFFFF" alt="GitHub Activity Graph in Orange" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agniva1803&theme=dracula" />
 </p>
+
 </div>
 
 ###
