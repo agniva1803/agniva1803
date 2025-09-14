@@ -17,9 +17,8 @@
 </p>
  <!-- ✅ GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&hide_border=true&theme=highcontrast&title_color=F17300&icon_color=F17300&text_color=FFFFFF&bg_color=0D1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agniva1803&theme=github" alt="GitHub Profile Summary for Agniva Mukherjee" />
 </p>
-
 </div>
 
 ###
