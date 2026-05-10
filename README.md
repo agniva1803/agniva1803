@@ -1,15 +1,11 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:00e87a&height=200&section=header&text=Agniva%20Mukherjee&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20%7C%20Cloud%20%7C%20Embedded%20Systems&descAlignY=58&descSize=18&descColor=9db8a8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:00e87a&height=180&section=header&text=Agniva%20Mukherjee&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Builder&descAlignY=58&descSize=17&descColor=9db8a8&animation=fadeIn" />
 
 </div>
 
-<br/>
-
-<!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00E87A&center=true&vCenter=true&multiline=false&width=600&lines=Final-year+ECE+%40+SRMIST+Chennai;Full-Stack+%7C+Cloud+%7C+AI+Builder;Open+to+SWE+%2F+AI+%2F+Embedded+Roles;Turning+ideas+into+shipped+products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E87A&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+Data+Scientist;Building+AI-powered+products+%F0%9F%9A%80;Passionate+about+Data+%2B+Systems+%2B+Scale;Open+to+Roles+%40+Top+Tech+Companies" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,14 +16,13 @@
 
 ```typescript
 const agniva = {
-  name:        "Agniva Mukherjee",
-  location:    "Chennai, India 🇮🇳",
-  education:   "B.Tech ECE — SRM Institute of Science & Technology (2022–2026)",
-  role:        "Final-year student | Open to full-time SWE / AI / Embedded roles",
-  focus:       ["Full-Stack Web", "AI & ML Systems", "Cloud Infrastructure", "Embedded Systems"],
-  currentlyBuilding: "SpendWise AI — AI spend audit tool for startups",
-  contact:     "agnivamukherjee8204@gmail.com",
-  funFact:     "I debug hardware AND software — simultaneously 🔧💻",
+  name:     "Agniva Mukherjee",
+  location: "Chennai, India 🇮🇳",
+  passion:  ["Data Analytics", "Software Engineering", "Data Science", "AI/ML"],
+  building: "SpendWise AI — AI spend audit tool for startups (credex.rocks)",
+  seeking:  "Full-time SWE | Data Engineer | Data Scientist roles",
+  contact:  "agnivamukherjee8204@gmail.com",
+  motto:    "Ship fast. Learn faster. Make data tell stories.",
 };
 ```
 
@@ -35,95 +30,87 @@ const agniva = {
 
 ## 🛠️ Tech Stack
 
-### Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,kotlin,c,cs" />
-</div>
+**Languages**
 
-### Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma" />
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Backend & Cloud
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,aws,gcp,docker,linux" />
-</div>
+**Data & AI**
 
-### Tools & Platforms
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino,firebase,vercel" />
-</div>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-000000?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&count_private=true&hide_border=true&theme=chartreuse-dark&title_color=00e87a&icon_color=00e87a&text_color=e8f0ec&bg_color=0d1117" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&hide_border=true&langs_count=8&theme=chartreuse-dark&title_color=00e87a&text_color=e8f0ec&bg_color=0d1117" height="175" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00e87a&icon_color=00e87a&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=00e87a&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agniva1803&theme=dark&hide_border=true&stroke=00e87a&ring=00e87a&fire=ff4d6d&currStreakLabel=00e87a&background=0d1117&dates=9db8a8" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agniva1803&theme=github_dark" width="100%" alt="Profile Summary" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agniva1803&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agniva1803&theme=tokyonight&hide_border=true&background=0d1117&stroke=00e87a&ring=00e87a&fire=ff4d6d&currStreakLabel=00e87a&sideLabels=c9d1d9&dates=6b8878" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| [**SpendWise AI**](https://github.com/agniva1803/Audit-) | Free AI spend auditor for startups — finds overpay on Cursor, Claude, Copilot | Next.js · TypeScript · Anthropic API |
+| [**MedicalBot**](https://github.com/agniva1803/medicalbot) | Python-based medical information system | Python · NLP |
+| [**Movie Scraper**](https://github.com/agniva1803/Movie-scrapper) | Automated movie data scraping and analysis | C++ |
+| [**Auto Bin Generator**](https://github.com/agniva1803/Automatic-Bin-Generator) | Hardware automation for waste management | C++ · Embedded |
+
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
-
-<a href="https://github.com/agniva1803/Audit-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agniva1803&repo=Audit-&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00e87a&icon_color=00e87a&text_color=e8f0ec" />
-</a>
-<a href="https://github.com/agniva1803/medicalbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agniva1803&repo=medicalbot&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00e87a&icon_color=00e87a&text_color=e8f0ec" />
-</a>
-<a href="https://github.com/agniva1803/Movie-scrapper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agniva1803&repo=Movie-scrapper&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00e87a&icon_color=00e87a&text_color=e8f0ec" />
-</a>
-<a href="https://github.com/agniva1803/Automatic-Bin-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agniva1803&repo=Automatic-Bin-Generator&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00e87a&icon_color=00e87a&text_color=e8f0ec" />
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&bg_color=0d1117&color=00e87a&line=00e87a&point=ffffff&area=true&area_color=1a3a2a&hide_border=true&radius=6" width="100%" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&bg_color=0d1117&color=00e87a&line=00e87a&point=ffffff&area=true&area_color=00e87a&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agniva-mukherjee-b2647b21a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnivamukherjee8204@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AgnivaMukh23619)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/am0346)
+[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AgnivaMukh23619)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/am0346/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/am0346)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22714182/primakrr)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@agnivamukherjee-xiib175)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agniva803/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1136878887637368954)
 
 </div>
 
@@ -134,7 +121,6 @@ const agniva = {
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agniva1803/agniva1803/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agniva1803/agniva1803/output/snake.svg" />
     <img src="https://raw.githubusercontent.com/agniva1803/agniva1803/output/snake.svg" alt="Contribution Snake" />
   </picture>
 </div>
@@ -142,9 +128,7 @@ const agniva = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:0d1117&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=agniva1803&style=for-the-badge&color=00e87a&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:0d1117&height=90&section=footer" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=agniva1803&style=flat-square&color=00e87a&label=Profile+Views" />
 </div>
