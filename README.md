@@ -1,9 +1,9 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Agniva%20Mukherjee&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=56&descColor=ffffffcc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,0&height=200&section=header&text=Agniva%20Mukherjee&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=56&descColor=ffffffcc"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Scientist+%7C+AI+Dev;Building+AI+products+that+actually+ship+%F0%9F%9A%80;Android+ROM+Dev+%7C+Embedded+%7C+Full-Stack;Open+to+Top+Tech+%26+Finance+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Scientist+%7C+AI+Dev;Building+AI+products+that+actually+ship+%F0%9F%9A%80;Android+ROM+Dev+%7C+Embedded+%7C+Full-Stack;Open+to+Top+Tech+%26+Finance+Roles" />
 </div>
 
 <br/>
@@ -47,7 +47,7 @@
 | 🍕 [**PengoX**](https://github.com/agniva1803/PenguoX) | Full-stack food delivery web app — fast ordering, restaurant listings & seamless checkout | `JavaScript` `Node.js` `Full-Stack` |
 | 🧠 [**Mentor Penguin AI**](https://github.com/agniva1803/mentor-penguin-ai) | AI mentorship & guidance platform | `TypeScript` `AI/ML` |
 | ⚡ [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production task manager — FastAPI + JWT auth + SQLite + vanilla JS | `Python` `FastAPI` `JWT` |
-| 🐧 [**PenguinOS — Settings**](https://github.com/agniva1803/android_packages_apps_Settings) | Device maintainer contribution — custom Android 14 Settings app for PenguinOS ROM | `Java` `Android` `AOSP` |
+| 🐧 [**PenguinOS — Settings**](https://github.com/agniva1803/android_packages_apps_Settings) | Device maintainer — custom Android 14 Settings app for PenguinOS ROM (AOSPA fork) | `Java` `Android` `AOSP` |
 | 🏥 [**MedicalBot**](https://github.com/agniva1803/medicalbot) | NLP-powered medical information system | `Python` `NLP` |
 
 ---
@@ -109,23 +109,18 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&theme=sunset&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=sunset&hide_border=true&langs_count=8&card_width=300" height="180"/>
 
-<img src="https://streak-stats.demolab.com/?user=agniva1803&theme=github-dark-blue&hide_border=true&mode=weekly" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=agniva1803&theme=sunset-gradient&hide_border=true&mode=weekly&card_width=700"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&theme=github-compact&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&theme=redical&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -140,9 +135,9 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,0&height=100&section=footer&animation=twinkling"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=agniva1803&style=flat-square&color=58A6FF&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=agniva1803&style=flat-square&color=FF6B35&label=Profile+Views"/>
   <br/><br/>
   <i>"The goal is to turn data into information, and information into insight."</i>
 </div>
