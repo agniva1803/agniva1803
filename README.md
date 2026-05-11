@@ -47,8 +47,6 @@
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -78,12 +76,19 @@
 
 ---
 
-
 ## 📊 Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-eight-rust-40.vercel.app/api?username=agniva1803&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=000000&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&ring_color=FF6B35" height="170"/>&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-eight-rust-40.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=000000&title_color=FF6B35&text_color=ffffff" height="170"/>
+<table border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td align="center">
+<img src="https://github-readme-stats-eight-rust-40.vercel.app/api?username=agniva1803&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=000000&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff" height="165"/>
+</td>
+<td align="center">
+<img src="https://github-readme-stats-eight-rust-40.vercel.app/api/top-langs/?username=agniva1803&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FF6B35&text_color=ffffff" height="165"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -104,5 +109,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-  
 </div>
