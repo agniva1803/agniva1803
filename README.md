@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,0&height=200&section=header&text=Agniva%20Mukherjee&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=56&descColor=ffffffcc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a0800&height=200&section=header&text=Agniva%20Mukherjee&fontSize=50&fontColor=FF6B35&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=56&descColor=ffffffaa"/>
 </div>
 
 <div align="center">
@@ -109,18 +109,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&theme=sunset&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=sunset&hide_border=true&langs_count=8&card_width=300" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&card_width=300" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=agniva1803&theme=sunset-gradient&hide_border=true&mode=weekly&card_width=700"/>
+<img src="https://streak-stats.demolab.com/?user=agniva1803&theme=gruvbox&hide_border=true&mode=weekly&card_width=700"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&theme=redical&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&theme=gruvbox&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -135,7 +135,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,0&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0800,100:000000&height=100&section=footer&animation=twinkling"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=agniva1803&style=flat-square&color=FF6B35&label=Profile+Views"/>
   <br/><br/>
