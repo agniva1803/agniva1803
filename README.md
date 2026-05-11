@@ -83,16 +83,11 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td><img src="https://github-readme-stats-eight-rust-40.vercel.app/api?username=agniva1803&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/></td>
-<td><img src="https://github-readme-stats-eight-rust-40.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/></td>
-</tr>
-</table>
+<img src="https://github-readme-stats-eight-rust-40.vercel.app/api?username=agniva1803&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats-eight-rust-40.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165"/>
 
-<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=agniva1803&theme=radical&hide_border=true&card_width=700&dates=888888"/>
+<img src="https://streak-stats.demolab.com/?user=agniva1803&theme=dark&hide_border=true&background=000000&stroke=FF6B35&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=888888&sideNums=ffffff&currStreakNum=ffffff"/>
 
 </div>
 
