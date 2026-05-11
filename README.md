@@ -44,7 +44,7 @@
 | 🛡️ [**AI Cybersecurity Platform**](https://github.com/agniva1803/AI-Cybersecurity-Threat-Intelligence-Platform) | Real-time AI-powered threat intelligence — detects, classifies & responds to cybersecurity threats autonomously | `JavaScript` `AI` `Security` |
 | 💸 [**SpendWise AI**](https://github.com/agniva1803/Audit-) | Free AI spend auditor for startups — finds overspend on Cursor, Claude & Copilot with a rule-based engine + LLM summaries | `Next.js` `TypeScript` `Anthropic` |
 | 🤖 [**PenguinX-AI**](https://github.com/agniva1803/PenguinX-AI) | AI-powered platform — part of the Penguin ecosystem | `TypeScript` `AI` |
-| 🍕 [**PengoX**](https://github.com/agniva1803/PenguoX) | Full-stack food delivery web app — fast ordering, restaurant listings & seamless checkout | `JavaScript` `Full-Stack` `Web` |
+| 🍕 [**PengoX**](https://github.com/agniva1803/PenguoX) | Full-stack food delivery web app — fast ordering, restaurant listings & seamless checkout. Built end-to-end from scratch. | `JavaScript` `Node.js` `Full-Stack` |
 | 🧠 [**Mentor Penguin AI**](https://github.com/agniva1803/mentor-penguin-ai) | AI mentorship & guidance platform | `TypeScript` `AI/ML` |
 | ⚡ [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production task manager — FastAPI + JWT auth + SQLite + vanilla JS | `Python` `FastAPI` `JWT` |
 | 🐧 [**PenguinOS — android_packages_apps_Settings**](https://github.com/agniva1803/android_packages_apps_Settings) | Device maintainer contribution — custom Android 14 Settings app for PenguinOS ROM (AOSPA fork) | `Java` `Android` `AOSP` |
