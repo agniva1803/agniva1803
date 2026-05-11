@@ -136,8 +136,5 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=agniva1803&style=flat-square&color=00FF94&label=Profile+Views"/>
-  <br/><br/>
-  <i>"The goal is to turn data into information, and information into insight."</i>
+  
 </div>
