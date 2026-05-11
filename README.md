@@ -49,6 +49,22 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Domain | Technologies |
+|:---|:---|
+| **Languages** | Python · TypeScript · JavaScript · C++ · Java · Kotlin · SQL · Rust |
+| **AI / Data** | Pandas · NumPy · Scikit-Learn · TensorFlow · FastAPI · OpenAI · Anthropic |
+| **Web & Backend** | Next.js · React · Node.js · MongoDB · PostgreSQL · SQLite |
+| **Android & Embedded** | Android · AOSP · Arduino · Linux |
+| **Cloud & DevOps** | AWS · GCP · Docker · GitHub Actions · Vercel |
+
+</div>
+
+---
+
 ## 📊 Stats
 
 <div align="center">
