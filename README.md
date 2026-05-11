@@ -1,9 +1,9 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Agniva%20Mukherjee&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=56&descColor=ffffffcc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Agniva%20Mukherjee&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=56&descColor=ffffffcc"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Scientist+%7C+AI+Dev;Building+AI+products+that+actually+ship+%F0%9F%9A%80;Android+ROM+Dev+%7C+Embedded+%7C+Full-Stack;Open+to+Top+Tech+%26+Finance+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Scientist+%7C+AI+Dev;Building+AI+products+that+actually+ship+%F0%9F%9A%80;Android+ROM+Dev+%7C+Embedded+%7C+Full-Stack;Open+to+Top+Tech+%26+Finance+Roles" />
 </div>
 
 <br/>
@@ -11,8 +11,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agniva-mukherjee-b2647b21a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-lime-ten-66.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnivamukherjee8204@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/agniva1803/My-Portfolio)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/am0346/)
 [![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AgnivaMukh23619)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22714182/primakrr)
@@ -28,7 +28,7 @@
 - 🛡️ Building **AI Cybersecurity Threat Intelligence Platform** — real-time threat detection with AI
 - 💸 Building **[SpendWise AI](https://github.com/agniva1803/Audit-)** — AI spend auditor for startups
 - 🤖 Created **[PenguinX-AI](https://github.com/agniva1803/PenguinX-AI)** & **[Mentor Penguin AI](https://github.com/agniva1803/mentor-penguin-ai)**
-- 🐧 **Device Maintainer @ [PenguinOS](https://github.com/Project-PenguinOS)** — custom Android 14 ROM (AOSPA fork), contributing system-level app customizations
+- 🐧 **Device Maintainer @ [PenguinOS](https://github.com/Project-PenguinOS)** — custom Android 14 ROM (AOSPA fork)
 - 🌱 Deep into **LLMs · Data Engineering · Distributed Systems**
 - 🎯 Targeting **SWE / Data Science / AI** roles at top tech & finance firms
 - 📬 **agnivamukherjee8204@gmail.com**
@@ -42,12 +42,12 @@
 | Project | What I built | Stack |
 |:--------|:-------------|:------|
 | 🛡️ [**AI Cybersecurity Platform**](https://github.com/agniva1803/AI-Cybersecurity-Threat-Intelligence-Platform) | Real-time AI-powered threat intelligence — detects, classifies & responds to cybersecurity threats autonomously | `JavaScript` `AI` `Security` |
-| 💸 [**SpendWise AI**](https://github.com/agniva1803/Audit-) | Free AI spend auditor for startups — finds overspend on Cursor, Claude & Copilot with a rule-based engine + LLM summaries | `Next.js` `TypeScript` `Anthropic` |
+| 💸 [**SpendWise AI**](https://github.com/agniva1803/Audit-) | Free AI spend auditor for startups — finds overspend on Cursor, Claude & Copilot with rule-based engine + LLM summaries | `Next.js` `TypeScript` `Anthropic` |
 | 🤖 [**PenguinX-AI**](https://github.com/agniva1803/PenguinX-AI) | AI-powered platform — part of the Penguin ecosystem | `TypeScript` `AI` |
-| 🍕 [**PengoX**](https://github.com/agniva1803/PenguoX) | Full-stack food delivery web app — fast ordering, restaurant listings & seamless checkout. Built end-to-end from scratch. | `JavaScript` `Node.js` `Full-Stack` |
+| 🍕 [**PengoX**](https://github.com/agniva1803/PenguoX) | Full-stack food delivery web app — fast ordering, restaurant listings & seamless checkout | `JavaScript` `Node.js` `Full-Stack` |
 | 🧠 [**Mentor Penguin AI**](https://github.com/agniva1803/mentor-penguin-ai) | AI mentorship & guidance platform | `TypeScript` `AI/ML` |
 | ⚡ [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production task manager — FastAPI + JWT auth + SQLite + vanilla JS | `Python` `FastAPI` `JWT` |
-| 🐧 [**PenguinOS — android_packages_apps_Settings**](https://github.com/agniva1803/android_packages_apps_Settings) | Device maintainer contribution — custom Android 14 Settings app for PenguinOS ROM (AOSPA fork) | `Java` `Android` `AOSP` |
+| 🐧 [**PenguinOS — Settings**](https://github.com/agniva1803/android_packages_apps_Settings) | Device maintainer contribution — custom Android 14 Settings app for PenguinOS ROM | `Java` `Android` `AOSP` |
 | 🏥 [**MedicalBot**](https://github.com/agniva1803/medicalbot) | NLP-powered medical information system | `Python` `NLP` |
 
 ---
@@ -65,7 +65,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 
 **AI / Data Science**
 
@@ -108,16 +108,24 @@
 ## 📊 Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00ff94&icon_color=00ff94&text_color=ffffff&bg_color=0d1117"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=00ff94&text_color=ffffff&bg_color=0d1117"/>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=agniva1803&theme=github-dark-blue&hide_border=true&mode=weekly" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=agniva1803&theme=dark&hide_border=true&background=0d1117&stroke=00ff94&ring=00ff94&fire=ff6b6b&currStreakLabel=00ff94&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&bg_color=0d1117&color=00ff94&line=00ff94&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -132,9 +140,9 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&animation=twinkling"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=agniva1803&style=flat-square&color=00ff94&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=agniva1803&style=flat-square&color=58A6FF&label=Profile+Views"/>
   <br/><br/>
   <i>"The goal is to turn data into information, and information into insight."</i>
 </div>
