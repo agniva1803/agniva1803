@@ -27,7 +27,6 @@
 
 - 🛡️ Building **AI Cybersecurity Threat Intelligence Platform** — real-time threat detection with AI
 - 💸 Building **[SpendWise AI](https://github.com/agniva1803/Audit-)** — AI spend auditor for startups
-- 🤖 Created **[PenguinX-AI](https://github.com/agniva1803/PenguinX-AI)** & **[Mentor Penguin AI](https://github.com/agniva1803/mentor-penguin-ai)**
 - 🐧 **Device Maintainer @ [PenguinOS](https://github.com/Project-PenguinOS)** — custom Android 14 ROM (AOSPA fork)
 - 🌱 Deep into **LLMs · Data Engineering · Distributed Systems**
 - 🎯 Targeting **SWE / Data Science / AI** roles at top tech & finance firms
@@ -41,14 +40,10 @@
 
 | Project | What I built | Stack |
 |:--------|:-------------|:------|
-| 🛡️ [**AI Cybersecurity Platform**](https://github.com/agniva1803/AI-Cybersecurity-Threat-Intelligence-Platform) | Real-time AI-powered threat intelligence — detects, classifies & responds to cybersecurity threats autonomously | `JavaScript` `AI` `Security` |
 | 💸 [**SpendWise AI**](https://github.com/agniva1803/Audit-) | Free AI spend auditor for startups — finds overspend on Cursor, Claude & Copilot with rule-based engine + LLM summaries | `Next.js` `TypeScript` `Anthropic` |
 | 🤖 [**PenguinX-AI**](https://github.com/agniva1803/PenguinX-AI) | AI-powered platform — part of the Penguin ecosystem | `TypeScript` `AI` |
-| 🍕 [**PengoX**](https://github.com/agniva1803/PenguoX) | Full-stack food delivery web app — fast ordering, restaurant listings & seamless checkout | `JavaScript` `Node.js` `Full-Stack` |
-| 🧠 [**Mentor Penguin AI**](https://github.com/agniva1803/mentor-penguin-ai) | AI mentorship & guidance platform | `TypeScript` `AI/ML` |
 | ⚡ [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production task manager — FastAPI + JWT auth + SQLite + vanilla JS | `Python` `FastAPI` `JWT` |
 | 🐧 [**PenguinOS — Settings**](https://github.com/agniva1803/android_packages_apps_Settings) | Device maintainer — custom Android 14 Settings app for PenguinOS ROM (AOSPA fork) | `Java` `Android` `AOSP` |
-| 🏥 [**MedicalBot**](https://github.com/agniva1803/medicalbot) | NLP-powered medical information system | `Python` `NLP` |
 
 ---
 
