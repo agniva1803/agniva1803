@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Scientist+%7C+AI+Dev;Building+AI+products+that+actually+ship+%F0%9F%9A%80;Passionate+about+Data+%2B+Scale+%2B+Systems;Open+to+Top+Tech+%26+Finance+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Scientist+%7C+AI+Dev;Building+AI+products+that+actually+ship+%F0%9F%9A%80;Android+ROM+Dev+%7C+Embedded+%7C+Full-Stack;Open+to+Top+Tech+%26+Finance+Roles" />
 </div>
 
 <br/>
@@ -27,9 +27,8 @@
 
 - 🛡️ Building **AI Cybersecurity Threat Intelligence Platform** — real-time threat detection with AI
 - 💸 Building **[SpendWise AI](https://github.com/agniva1803/Audit-)** — AI spend auditor for startups
-- 🐧 Core contributor to **PenguinOS** — building an OS-level platform ecosystem
-- 🤖 Created **[PenguinX-AI](https://github.com/agniva1803/PenguinX-AI)** — AI-powered TypeScript platform
-- 🍕 Shipped **[PenguoX](https://github.com/agniva1803/PenguoX)** — full-stack JavaScript web app
+- 🤖 Created **[PenguinX-AI](https://github.com/agniva1803/PenguinX-AI)** & **[Mentor Penguin AI](https://github.com/agniva1803/mentor-penguin-ai)**
+- 🐧 **Device Maintainer @ [PenguinOS](https://github.com/Project-PenguinOS)** — custom Android 14 ROM (AOSPA fork), contributing system-level app customizations
 - 🌱 Deep into **LLMs · Data Engineering · Distributed Systems**
 - 🎯 Targeting **SWE / Data Science / AI** roles at top tech & finance firms
 - 📬 **agnivamukherjee8204@gmail.com**
@@ -42,14 +41,14 @@
 
 | Project | What I built | Stack |
 |:--------|:-------------|:------|
-| 🛡️ [**AI Cybersecurity Platform**](https://github.com/agniva1803/AI-Cybersecurity-Threat-Intelligence-Platform) | Real-time AI-powered threat intelligence — detects, classifies & responds to cybersecurity threats | `JavaScript` `AI` `Security` |
-| 💸 [**SpendWise AI**](https://github.com/agniva1803/Audit-) | Free AI spend auditor for startups — finds overspend on Cursor, Claude & Copilot with rule-based engine + LLM summaries | `Next.js` `TypeScript` `Anthropic` |
-| 🤖 [**PenguinX-AI**](https://github.com/agniva1803/PenguinX-AI) | AI-powered platform built in TypeScript — part of the Penguin ecosystem | `TypeScript` `AI` |
-| 🍕 [**PenguoX**](https://github.com/agniva1803/PenguoX) | Full-stack web application — "Taste the Speed of Flavor" | `JavaScript` `Full-Stack` |
+| 🛡️ [**AI Cybersecurity Platform**](https://github.com/agniva1803/AI-Cybersecurity-Threat-Intelligence-Platform) | Real-time AI-powered threat intelligence — detects, classifies & responds to cybersecurity threats autonomously | `JavaScript` `AI` `Security` |
+| 💸 [**SpendWise AI**](https://github.com/agniva1803/Audit-) | Free AI spend auditor for startups — finds overspend on Cursor, Claude & Copilot with a rule-based engine + LLM summaries | `Next.js` `TypeScript` `Anthropic` |
+| 🤖 [**PenguinX-AI**](https://github.com/agniva1803/PenguinX-AI) | AI-powered platform — part of the Penguin ecosystem | `TypeScript` `AI` |
+| 🍕 [**PenguoX**](https://github.com/agniva1803/PenguoX) | Full-stack web app — "Taste the Speed of Flavor" | `JavaScript` `Full-Stack` |
 | 🧠 [**Mentor Penguin AI**](https://github.com/agniva1803/mentor-penguin-ai) | AI mentorship & guidance platform | `TypeScript` `AI/ML` |
-| ⚡ [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production-grade task manager — FastAPI + JWT auth + SQLite + vanilla JS | `Python` `FastAPI` `JWT` |
+| ⚡ [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production task manager — FastAPI + JWT auth + SQLite + vanilla JS | `Python` `FastAPI` `JWT` |
+| 🐧 [**PenguinOS — android_packages_apps_Settings**](https://github.com/agniva1803/android_packages_apps_Settings) | Device maintainer contribution — custom Android 14 Settings app for PenguinOS ROM (AOSPA fork) | `Java` `Android` `AOSP` |
 | 🏥 [**MedicalBot**](https://github.com/agniva1803/medicalbot) | NLP-powered medical information system | `Python` `NLP` |
-| 🔧 [**Auto Bin Generator**](https://github.com/agniva1803/Automatic-Bin-Generator) | Smart embedded IoT system for waste management | `C++` `IoT` |
 
 ---
 
@@ -87,13 +86,19 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+**Android & Embedded**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![AOSP](https://img.shields.io/badge/AOSP-000000?style=flat-square&logo=android&logoColor=3DDC84)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
