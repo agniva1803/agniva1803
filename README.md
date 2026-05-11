@@ -1,9 +1,9 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a0800&height=200&section=header&text=Agniva%20Mukherjee&fontSize=50&fontColor=FF6B35&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=56&descColor=ffffffaa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Agniva%20Mukherjee&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=56&descColor=ffffffcc"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Scientist+%7C+AI+Dev;Building+AI+products+that+actually+ship+%F0%9F%9A%80;Android+ROM+Dev+%7C+Embedded+%7C+Full-Stack;Open+to+Top+Tech+%26+Finance+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Scientist+%7C+AI+Dev;Building+AI+products+that+actually+ship+%F0%9F%9A%80;Android+ROM+Dev+%7C+Embedded+%7C+Full-Stack;Open+to+Top+Tech+%26+Finance+Roles" />
 </div>
 
 <br/>
@@ -109,18 +109,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&card_width=300" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=300" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=agniva1803&theme=gruvbox&hide_border=true&mode=weekly&card_width=700"/>
+<img src="https://streak-stats.demolab.com/?user=agniva1803&theme=radical&hide_border=true&card_width=700&dates=888888"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&theme=gruvbox&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&theme=ardoise&hide_border=true&area=true&color=FF6B35&line=FF6B35&point=ffffff" width="100%"/>
 </div>
 
 ---
@@ -135,9 +135,9 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0800,100:000000&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=agniva1803&style=flat-square&color=FF6B35&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=agniva1803&style=flat-square&color=00FF94&label=Profile+Views"/>
   <br/><br/>
   <i>"The goal is to turn data into information, and information into insight."</i>
 </div>
