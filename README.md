@@ -120,7 +120,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&theme=ardoise&hide_border=true&area=true&color=FF6B35&line=FF6B35&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agniva1803&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
