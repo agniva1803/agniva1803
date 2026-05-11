@@ -83,9 +83,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agniva1803&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180"/>
+<img src="https://github-readme-stats-eight-rust-40.vercel.app/api?username=agniva1803&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=300" height="180"/>
+<img src="https://github-readme-stats-eight-rust-40.vercel.app/api/top-langs/?username=agniva1803&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=300" height="180"/>
 
 <br/><br/>
 
