@@ -92,7 +92,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=agniva1803&theme=dark&hide_border=true&background=000000&stroke=FF6B35&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=888888&sideNums=ffffff&currStreakNum=ffffff"/>
+<img src="https://github-readme-stats-eight-rust-40.vercel.app/api?username=agniva1803&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,prs_merged,prs_merged_percentage&bg_color=000000&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&ring_color=FF6B35"/>
 
 </div>
 
