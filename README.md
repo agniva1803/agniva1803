@@ -82,7 +82,7 @@
 <table border="0" cellspacing="0" cellpadding="4">
 <tr>
 <td align="center">
-<img src="https://github-readme-stats-eight-rust-40.vercel.app/api?username=agniva1803&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&bg_color=000000&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats-eight-rust-40.vercel.app/api?username=agniva1803&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=letter&bg_color=000000&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff" height="165"/>
 </td>
 <td align="center">
 <img src="https://github-readme-stats-eight-rust-40.vercel.app/api/top-langs/?username=agniva1803&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FF6B35&text_color=ffffff" height="165"/>
