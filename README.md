@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Scientist+%7C+AI+Dev;Building+AI+products+that+actually+ship+%F0%9F%9A%80;Android+ROM+Dev+%7C+Embedded+%7C+Full-Stack;Open+to+Top+Tech+%26+Finance+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Scientist+%7C+AI+Dev;Building+AI-powered+products+that+ship+%F0%9F%9A%80;Full-Stack+%7C+Cloud+%7C+ML+%7C+Embedded+Systems;Open+to+Roles+%40+Top+Tech+%26+Finance+Firms" />
 </div>
 
 <br/>
@@ -21,13 +21,13 @@
 
 ---
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 ### 👨‍💻 About Me
 
-- 🛡️ Building **AI Cybersecurity Threat Intelligence Platform** — real-time threat detection with AI
-- 💸 Building **[SpendWise AI](https://github.com/agniva1803/Audit-)** — AI spend auditor for startups
-- 🐧 **Device Maintainer @ [PenguinOS](https://github.com/Project-PenguinOS)** — custom Android 14 ROM (AOSPA fork)
+- 🤖 Building **AI Cybersecurity Threat Intelligence Platform** — autonomous threat detection & response
+- 💸 Building **[SpendWise AI](https://github.com/agniva1803/Audit-)** — saved startups thousands in AI tool overspend
+- 🐧 **Device Maintainer @ [PenguinOS](https://github.com/Project-PenguinOS)** — shipped custom Android 14 ROM to real users
 - 🌱 Deep into **LLMs · Data Engineering · Distributed Systems**
 - 🎯 Targeting **SWE / Data Science / AI** roles at top tech & finance firms
 - 📬 **agnivamukherjee8204@gmail.com**
@@ -40,10 +40,10 @@
 
 | Project | What I built | Stack |
 |:--------|:-------------|:------|
-| 💸 [**SpendWise AI**](https://github.com/agniva1803/Audit-) | Free AI spend auditor for startups — finds overspend on Cursor, Claude & Copilot with rule-based engine + LLM summaries | `Next.js` `TypeScript` `Anthropic` |
-| 🤖 [**PenguinX-AI**](https://github.com/agniva1803/PenguinX-AI) | AI-powered platform — part of the Penguin ecosystem | `TypeScript` `AI` |
-| ⚡ [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production task manager — FastAPI + JWT auth + SQLite + vanilla JS | `Python` `FastAPI` `JWT` |
-| 🐧 [**PenguinOS — Settings**](https://github.com/agniva1803/android_packages_apps_Settings) | Device maintainer — custom Android 14 Settings app for PenguinOS ROM (AOSPA fork) | `Java` `Android` `AOSP` |
+| 💸 [**SpendWise AI**](https://github.com/agniva1803/Audit-) | AI spend auditor for startups — rule-based engine + Anthropic API finds overspend across 8 tools. Built end-to-end in 7 days | `Next.js` `TypeScript` `Anthropic` `Vercel` |
+| 🤖 [**PenguinX-AI**](https://github.com/agniva1803/PenguinX-AI) | AI-powered TypeScript platform — part of the Penguin ecosystem | `TypeScript` `AI` |
+| ⚡ [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production-grade task manager with JWT auth, SQLite persistence & vanilla JS frontend | `Python` `FastAPI` `JWT` `SQLite` |
+| 🐧 [**PenguinOS**](https://github.com/agniva1803/android_packages_apps_Settings) | Shipped custom Android 14 ROM based on AOSPA — device maintainer contributing system-level customizations | `Java` `Android` `AOSP` |
 
 ---
 
