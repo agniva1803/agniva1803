@@ -17,7 +17,7 @@
 
 - πŸ€– Building **AI Cybersecurity Threat Intelligence Platform** β€" autonomous threat detection & response
 - ⚑ Built **[GigFlow](https://github.com/agniva1803/GigFlow)** β€" full-stack Smart Leads Dashboard, live deployed
-- πŸ'Έ Building **[SpendWise AI](https://github.com/agniva1803/Audit-)** β€" saved startups thousands in AI tool overspend
+- πŸ'Έ Building **[SpendWise AI](https://github.com/agniva1803/SpendUse_AI)** β€" saved startups thousands in AI tool overspend
 - 🐧 **Device Maintainer @ [PenguinOS](https://github.com/Project-PenguinOS)** β€" shipped custom Android 14 ROM to real users
 - 🌱 Deep into **LLMs Β· Data Engineering Β· Distributed Systems**
 - 🎯 Targeting **SWE / Data Science / AI** roles at top tech & finance firms
@@ -32,7 +32,7 @@
 | Project | What I built | Stack | Live |
 | ------- | ------------ | ----- | ---- |
 | ⚑ [**GigFlow**](https://github.com/agniva1803/GigFlow) | Smart Leads Dashboard β€" full-stack CRM with JWT auth, RBAC, role-based access, filters, pagination & CSV export | `React` `TypeScript` `Node.js` `MongoDB` `Express` `TailwindCSS` | [πŸ"— Live](https://gig-flow-mkbrj3ijl-agniva-mukherjees-projects-8ea5e944.vercel.app) |
-| πŸ'Έ [**SpendWise AI**](https://github.com/agniva1803/Audit-) | AI spend auditor for startups β€" rule-based engine + Anthropic API finds overspend across 8 tools. Built end-to-end in 7 days | `Next.js` `TypeScript` `Anthropic` `Vercel` | [πŸ"— Live](https://github.com/agniva1803/Audit-) |
+| πŸ'Έ [**SpendWise AI**](https://github.com/agniva1803/SpendUse_AI) | AI spend auditor for startups β€" rule-based engine + Anthropic API finds overspend across 8 tools. Built end-to-end in 7 days | `Next.js` `TypeScript` `Anthropic` `Vercel` | [πŸ"— Live](https://github.com/agniva1803/SpendUse_AI) |
 | 🀝 [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production-grade task manager with JWT auth, SQLite persistence & vanilla JS frontend | `Python` `FastAPI` `JWT` `SQLite` | β€" |
 | 🐧 [**PenguinOS**](https://github.com/agniva1803/android_packages_apps_Settings) | Shipped custom Android 14 ROM based on AOSPA β€" device maintainer contributing system-level customizations | `Java` `Android` `AOSP` | β€" |
 | πŸ€– [**PenguinX-AI**](https://github.com/agniva1803/PenguinX-AI) | AI-powered TypeScript platform β€" part of the Penguin ecosystem | `TypeScript` `AI` | β€" |
