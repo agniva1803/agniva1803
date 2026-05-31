@@ -13,33 +13,33 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200"/>
 
-### πŸ'¨β€πŸ'» About Me
+### 👨‍💻 About Me
 
-- πŸ€– Building **AI Cybersecurity Threat Intelligence Platform** β€" autonomous threat detection & response
-- ⚑ Built **[GigFlow](https://github.com/agniva1803/GigFlow)** β€" full-stack Smart Leads Dashboard, live deployed
-- πŸ'Έ Building **[SpendWise AI](https://github.com/agniva1803/SpendUse_AI)** β€" saved startups thousands in AI tool overspend
-- 🐧 **Device Maintainer @ [PenguinOS](https://github.com/Project-PenguinOS)** β€" shipped custom Android 14 ROM to real users
-- 🌱 Deep into **LLMs Β· Data Engineering Β· Distributed Systems**
+- 🤖 Building **AI Cybersecurity Threat Intelligence Platform** — autonomous threat detection & response
+- ⚡ Built **[GigFlow](https://github.com/agniva1803/GigFlow)** — full-stack Smart Leads Dashboard, live deployed
+- 💸 Building **[SpendWise AI](https://github.com/agniva1803/SpendUse_AI)** — saved startups thousands in AI tool overspend
+- 🐧 **Device Maintainer @ [PenguinOS](https://github.com/Project-PenguinOS)** — shipped custom Android 14 ROM to real users
+- 🌱 Deep into **LLMs · Data Engineering · Distributed Systems**
 - 🎯 Targeting **SWE / Data Science / AI** roles at top tech & finance firms
-- πŸ"¬ **agnivamukherjee8204@gmail.com**
+- 📬 **agnivamukherjee8204@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## πŸš€ Projects
+## 🚀 Projects
 
 | Project | What I built | Stack | Live |
 | ------- | ------------ | ----- | ---- |
-| ⚑ [**GigFlow**](https://github.com/agniva1803/GigFlow) | Smart Leads Dashboard β€" full-stack CRM with JWT auth, RBAC, role-based access, filters, pagination & CSV export | `React` `TypeScript` `Node.js` `MongoDB` `Express` `TailwindCSS` | [πŸ"— Live](https://gig-flow-mkbrj3ijl-agniva-mukherjees-projects-8ea5e944.vercel.app) |
-| πŸ'Έ [**SpendWise AI**](https://github.com/agniva1803/SpendUse_AI) | AI spend auditor for startups β€" rule-based engine + Anthropic API finds overspend across 8 tools. Built end-to-end in 7 days | `Next.js` `TypeScript` `Anthropic` `Vercel` | [πŸ"— Live](https://github.com/agniva1803/SpendUse_AI) |
-| 🀝 [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production-grade task manager with JWT auth, SQLite persistence & vanilla JS frontend | `Python` `FastAPI` `JWT` `SQLite` | β€" |
-| 🐧 [**PenguinOS**](https://github.com/agniva1803/android_packages_apps_Settings) | Shipped custom Android 14 ROM based on AOSPA β€" device maintainer contributing system-level customizations | `Java` `Android` `AOSP` | β€" |
-| πŸ€– [**PenguinX-AI**](https://github.com/agniva1803/PenguinX-AI) | AI-powered TypeScript platform β€" part of the Penguin ecosystem | `TypeScript` `AI` | β€" |
+| ⚡ [**GigFlow**](https://github.com/agniva1803/GigFlow) | Smart Leads Dashboard — full-stack CRM with JWT auth, RBAC, role-based access, filters, pagination & CSV export | `React` `TypeScript` `Node.js` `MongoDB` `Express` `TailwindCSS` | [🔗 Live](https://gig-flow-mkbrj3ijl-agniva-mukherjees-projects-8ea5e944.vercel.app) |
+| 💸 [**SpendWise AI**](https://github.com/agniva1803/SpendUse_AI) | AI spend auditor for startups — rule-based engine + Anthropic API finds overspend across 8 tools. Built end-to-end in 7 days | `Next.js` `TypeScript` `Anthropic` `Vercel` | [🔗 Live](https://github.com/agniva1803/SpendUse_AI) |
+| 🤝 [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production-grade task manager with JWT auth, SQLite persistence & vanilla JS frontend | `Python` `FastAPI` `JWT` `SQLite` | — |
+| 🐧 [**PenguinOS**](https://github.com/agniva1803/android_packages_apps_Settings) | Shipped custom Android 14 ROM based on AOSPA — device maintainer contributing system-level customizations | `Java` `Android` `AOSP` | — |
+| 🤖 [**PenguinX-AI**](https://github.com/agniva1803/PenguinX-AI) | AI-powered TypeScript platform — part of the Penguin ecosystem | `TypeScript` `AI` | — |
 
 ---
 
-## πŸ› οΈ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -74,7 +74,7 @@
 
 ---
 
-## πŸ"Š Stats
+## 📊 Stats
 
 | ![Agniva's GitHub Stats](https://github-readme-stats-eight-rust-40.vercel.app/api?username=agniva1803&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=letter&bg_color=000000&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff) | ![Top Languages](https://github-readme-stats-eight-rust-40.vercel.app/api/top-langs/?username=agniva1803&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FF6B35&text_color=ffffff) |
 | --- | --- |
