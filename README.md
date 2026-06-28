@@ -18,7 +18,7 @@
 - 🤖 Building **AI Cybersecurity Threat Intelligence Platform** — autonomous threat detection & response
 - ⚡ Built **[GigFlow](https://github.com/agniva1803/GigFlow)** — full-stack Smart Leads Dashboard, live deployed
 - 💸 Building **[SpendWise AI](https://github.com/agniva1803/SpendUse_AI)** — saved startups thousands in AI tool overspend
-- 🐧 **Device Maintainer @ [PenguinOS](https://github.com/Project-PenguinOS)** — shipped custom Android 14 ROM to real users
+- 🐧 Contributed to **[PenguinOS](https://github.com/Project-PenguinOS)** (2023–2025) — custom Android OS built on AOSPA
 - 🌱 Deep into **LLMs · Data Engineering · Distributed Systems**
 - 🎯 Targeting **SWE / Data Science / AI** roles at top tech & finance firms
 - 📬 **agnivamukherjee8204@gmail.com**
@@ -31,11 +31,11 @@
 
 | Project | What I built | Stack | Live |
 | ------- | ------------ | ----- | ---- |
-| ⚡ [**GigFlow**](https://github.com/agniva1803/GigFlow) | Smart Leads Dashboard — full-stack CRM with JWT auth, RBAC, role-based access, filters, pagination & CSV export | `React` `TypeScript` `Node.js` `MongoDB` `Express` `TailwindCSS` | [🔗 Live](https://gig-flow-mkbrj3ijl-agniva-mukherjees-projects-8ea5e944.vercel.app) |
-| 💸 [**SpendWise AI**](https://github.com/agniva1803/SpendUse_AI) | AI spend auditor for startups — rule-based engine + Anthropic API finds overspend across 8 tools. Built end-to-end in 7 days | `Next.js` `TypeScript` `Anthropic` `Vercel` | [🔗 Live](https://github.com/agniva1803/SpendUse_AI) |
-| 🤝 [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production-grade task manager with JWT auth, SQLite persistence & vanilla JS frontend | `Python` `FastAPI` `JWT` `SQLite` | — |
-| 🐧 [**PenguinOS**](https://github.com/agniva1803/android_packages_apps_Settings) | Shipped custom Android 14 ROM based on AOSPA — device maintainer contributing system-level customizations | `Java` `Android` `AOSP` | — |
-| 🤖 [**PenguinX-AI**](https://github.com/agniva1803/PenguinX-AI) | AI-powered TypeScript platform — part of the Penguin ecosystem | `TypeScript` `AI` | — |
+| ⚡ [**GigFlow**](https://github.com/agniva1803/GigFlow) | Smart Leads Dashboard — full-stack CRM with JWT auth, RBAC, role-based access, filters, pagination & CSV export | `React` `TypeScript` `Node.js` `MongoDB` `Express` `TailwindCSS` | [🔗 Live](https://gig-flow-nu-one.vercel.app/) |
+| 💸 [**SpendWise AI**](https://github.com/agniva1803/SpendUse_AI) | AI spend auditor for startups — rule-based engine + Anthropic API finds overspend across 8 tools. Built end-to-end in 7 days | `Next.js` `TypeScript` `Anthropic` `Vercel` | [🔗 Live](https://audit-eta-sepia.vercel.app/) |
+| 🤝 [**FastAPI Task Manager**](https://github.com/agniva1803/fastapi-task-manager) | Production-grade task manager with JWT auth, SQLite persistence & vanilla JS frontend | `Python` `FastAPI` `JWT` `SQLite` | [🔗 Live](https://fastapi-task-manager-znn3.onrender.com/) |
+| 🐧 [**PenguinOS**](https://github.com/agniva1803/android_packages_apps_Settings) | Custom Android OS built on AOSPA — contributed 2023–2025 | `Java` `Android` `AOSP` | [🔗 Org](https://github.com/Project-PenguinOS) |
+| 🤖 [**PenguinX-AI**](https://github.com/agniva1803/PenguinX-AI) | AI-powered TypeScript platform — part of the Penguin ecosystem | `TypeScript` `AI` | [🔗 Live](https://penguin-x-ai.vercel.app/) |
 
 ---
 
